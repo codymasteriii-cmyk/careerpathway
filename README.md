@@ -22,7 +22,3 @@ Sheet2!A6 = A6
 Sheet2!B6 = B4*B3*SQRTPI(B2)*LOG(B1)*EXP(Sheet1!B4)
 Sheet2!A7 = A7
 Sheet2!B7 = B4*B3*SQRTPI(B2)*LOG(B1)*EXP(Sheet1!B4)
-Sheet2!A8 = A8
-Sheet2!B8 = B4*B3*SQRTPI(B2)*LOG(B1)*EXP(Sheet1!B4)
-Sheet2!A9 = A9
-Sheet2!B9 = B4*B3*SQRTPI(B2)*LOG(B1)*EXP(Sheet1!B4)
